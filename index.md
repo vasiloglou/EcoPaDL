@@ -6,8 +6,11 @@ While there are several proposals for solving the technical part of data markets
 ### Call for papers
 
 **Important Dates**
+
 Paper submission deadline: June 5th 2020, 11:59 PM (AoE, UTC-12)
+
 Acceptance notification: July 1st 2020, EOD
+
 Workshop: July 17th or 18th, 2020
 
 **Topics of interest** 
@@ -27,9 +30,9 @@ You are invited to submit papers of up to six pages, plus one page for reference
 
 **Submission Site**
 
-Submission link: https://easychair.org/conferences/?conf=dls2020.
+Submission link: TBD
 
-All questions about submissions should be emailed to ecopadl2020@gmail.com
+All questions about submissions should be emailed to [ecopadl2020@gmail.com]
 
 
 ### Organizers ####
