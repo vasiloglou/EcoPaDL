@@ -1,9 +1,10 @@
-## About the workshop
+
+# About the workshop #
 
 Although data is considered to be the “new oil”, it is very hard to be priced. Raw use of data has been invaluable in several sectors such as advertising, healthcare, etc, but often in violation of people’s privacy. Labeled data has also been extremely valuable for the training of machine learning models (driverless car industry). This is also indicated by the growth of annotation companies such as Figure8 and Scale.AI, especially in the image space. Yet, it is not clear what is the right pricing for data workers who annotate the data or the individuals who contribute their personal data while using digital services. In the latter case, it is very unclear how the value of the services offered is compared to the private data exchanged.  While the first data marketplaces have appeared, such as AWS, Narrative.io, nitrogen.ai, etc, they suffer from a lack of good pricing models. They also fail to maintain the right of the data owners to define how their own data will be used. There have been numerous suggestions for sharing data while maintaining privacy, such as training generative models that preserve original data statistics.
 While there are several proposals for solving the technical part of data markets and fair pricing, it is necessary to consider other aspects that are covered by researchers in the area of economics and law. 
 
-### Call for papers
+## Call for papers ##
 
 **Important Dates**
 
