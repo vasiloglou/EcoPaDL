@@ -32,7 +32,7 @@ You are invited to submit papers of up to six pages, plus one page for reference
 
 Submission link: TBD
 
-All questions about submissions should be emailed to [ecopadl2020@gmail.com]
+All questions about submissions should be emailed to [ecopadl2020@gmail.com](mailto:ecopadl2020@gmail.com)
 
 
 ### Organizers ####
