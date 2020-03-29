@@ -1,5 +1,6 @@
+github:
+  is_project_page: false
 theme: jekyll-theme-slate
 title: EcoPaDL @ICML 2020
 description: Workshop on ECOnomics of Privacy and Data Labor
-github:
-  is_project_page: false
+
