@@ -1,5 +1,8 @@
 theme: jekyll-theme-architect
 title: EcoPaDL at ICML 2020
 description: Workshop on ECOnomics of Privacy and Data Labor
-show_downloads:
+show_downloads: false
+github:
+  is_project_page: false
+  
 
