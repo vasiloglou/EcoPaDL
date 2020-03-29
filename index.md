@@ -21,7 +21,7 @@ Workshop: July 17th or 18th, 2020
 - federated learning
 - data policies, AI ethics
 - pricing of machine learning models 
-- data market-places
+- data marketplaces
 - the economics of data labor and crowdsourcing
 - legal and ethical implications of data trading
 
@@ -39,9 +39,9 @@ All questions about submissions should be emailed to [ecopadl2020@gmail.com](mai
 ### Organizers ####
 - [Nikolaos Vasiloglou](https://www.linkedin.com/in/vasiloglou) (relationalAI)
 - [Rachel Cummings](https://pwp.gatech.edu/rachel-cummings/) 	(Georgia Tech)
-- [Glen Weyl](http://glenweyl.com/)	(Microsoft & RadicalXchange)
-- [Paris Koutris](http://pages.cs.wisc.edu/~paris/)  (University of Wisconcin)  		
-- [Meg Young](https://ischool.uw.edu/people/phd/profile/megyoung)	(University of Washingtor)
+- [Glen Weyl](http://glenweyl.com/)	(Microsoft & RadicalXChange)
+- [Paris Koutris](http://pages.cs.wisc.edu/~paris/)  (University of Wisconsin)  		
+- [Meg Young](https://ischool.uw.edu/people/phd/profile/megyoung)	(University of Washington)
 - [Ruoxi Jia](https://ruoxijia.github.io/) (UC Berkeley)
 - [David Dao](https://daviddao.org/) (ETH Zurich)	
 - [Bo Waggoner](https://www.bowaggoner.com/)	(University of Colorado)	
