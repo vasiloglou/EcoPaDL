@@ -27,7 +27,7 @@ Workshop: July 17th or 18th, 2020
 
 **Submission Guidelines**
 
-You are invited to submit papers of up to six pages, plus one page for references. To be considered, papers must be received by the submission deadline (see Important Dates). Submissions must be original work and may be under submission to another venue at the time of review. Authors should follow the ICML 2020 style guidelines as described [here](https://icml.cc/Conferences/2020/StyleAuthorInstructions). 
+You are invited to submit papers of up to six pages. You have unlimitted space for appendix and references. If you you want to submit a longer paper, we ask that they write a 2-6 page summary and submit it, along with an attachment or link to the full paper.  To be considered, papers must be received by the submission deadline (see Important Dates). Submissions must be original work and may be under submission to another venue at the time of review. Authors are encouraged to use the ICML 2020 style guidelines as described [here](https://icml.cc/Conferences/2020/StyleAuthorInstructions), but they are free to use other formats.. 
 
 **Submission Site**
 
