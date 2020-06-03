@@ -33,7 +33,7 @@ You are invited to submit papers of up to six pages. You have unlimitted space f
 
 Submission link: [https://easychair.org/conferences/?conf=ecopadl2020](https://easychair.org/conferences/?conf=ecopadl2020)
 
-All questions about submissions should be emailed to [ecopadl2020@gmail.com](mailto:ecopadl2020@gmail.com)
+All questions about submissions should be emailed to [ecopadl2020@gmail.com](mailto:ecopadl2020@googlegroups.com)
 
 
 ### Organizers ####
