@@ -8,7 +8,7 @@ While there are several proposals for solving the technical part of data markets
 
 **Important Dates**
 
-Paper submission deadline: June 5th 2020, 11:59 PM (AoE, UTC-12)
+Paper submission deadline: June ~~5th~~ 12th 2020, 11:59 PM (AoE, UTC-12)
 
 Acceptance notification: July 1st 2020, EOD
 
