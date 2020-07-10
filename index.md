@@ -20,6 +20,7 @@ Time (EST)  | Title  | Presenter
 1:30pm - 2:30pm   |  TBD | TBD
 2:30pm - 2:45pm   | Optimal Query Complexity of Secure Stochastic Convex Optimization  | Wei Tang
 2:45pm - 3:00pm   | To Call or not to Call? Using ML Prediction APIs more Accurately and Economically | Lingjiao Chen
+3:00pm - 3:15pm   | European Privacy Law and Global Markets for Data | Christian Peukert
 
 ## Call for papers ##
 
@@ -29,8 +30,8 @@ Paper submission deadline: June ~~5th~~ 12th 2020, 11:59 PM (AoE, UTC-12)
 
 Acceptance notification: July 1st 2020, EOD
 
-Workshop: July 17th or 18th, 2020
-
+Workshop: July 18th, 2020 (EST time zone)
+ 
 **Topics of interest** 
 
 - privacy-preserving machine learning methods
