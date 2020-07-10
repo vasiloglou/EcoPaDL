@@ -5,22 +5,23 @@ Although data is considered to be the “new oil”, it is very hard to be price
 While there are several proposals for solving the technical part of data markets and fair pricing, it is necessary to consider other aspects that are covered by researchers in the area of economics and law. 
 
 ## Schedule ##
-Time (EST)  | Title  | Presenter
------------ | ------ | ---------
-9:00am - 10:00am | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/)
-10:00am - 10:15am | Designing Differentially Private Estimators in High Dimensions | 	Aditya Dhar
-10:15am - 10:30am | Really Useful Synthetic Data -- A Framework to Evaluate the Quality of Differentially Private Synthetic Data | 	Christian Arnold
-10:30am - 10:45am |	Generating Privacy-Preserving Synthetic Tabular Data Using Oblivious Variational Autoencoders  |	L Vivek Harsha
+
+Time (EST)  | Title  | Presenter |
+----------- | ------ | --------- |
+9:00am - 10:00am | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/) |
+10:00am - 10:15am | Designing Differentially Private Estimators in High Dimensions | 	Aditya Dhar |
+10:15am - 10:30am | Really Useful Synthetic Data -- A Framework to Evaluate the Quality of Differentially Private Synthetic Data | 	Christian Arnold |
+10:30am - 10:45am |	Generating Privacy-Preserving Synthetic Tabular Data Using Oblivious Variational Autoencoders  |	L Vivek Harsha |
 10:45am - 11:00am | BREAK |
-11:00am - 12:00pm |   TBD  | [Nicole Immorlica](http://www.immorlica.com/)
-12:00pm - 12:15pm | Do Markets Make Sense for Personal Data?  | Aileen Nielsen
-12:15pm - 12:30pm | On Detecting Data Pollution Attacks On Recommender Systems Using Sequential GANs | Behzad Shahrasb
-12:30pm - 12:45pm | 	Efficient Privacy-Preserving Stochastic Nonconvex Optimization | 	Lingxiao Wang
+11:00am - 12:00pm |   TBD  | [Nicole Immorlica](http://www.immorlica.com/) |
+12:00pm - 12:15pm | Do Markets Make Sense for Personal Data?  | Aileen Nielsen |
+12:15pm - 12:30pm | On Detecting Data Pollution Attacks On Recommender Systems Using Sequential GANs | Behzad Shahrasb |
+12:30pm - 12:45pm | 	Efficient Privacy-Preserving Stochastic Nonconvex Optimization | 	Lingxiao Wang |
 12:45pm - 1:30pm  | BREAK |
-1:30pm - 2:30pm   |  TBD | TBD
-2:30pm - 2:45pm   | Optimal Query Complexity of Secure Stochastic Convex Optimization  | Wei Tang
-2:45pm - 3:00pm   | To Call or not to Call? Using ML Prediction APIs more Accurately and Economically | Lingjiao Chen
-3:00pm - 3:15pm   | European Privacy Law and Global Markets for Data | Christian Peukert
+1:30pm - 2:30pm   |  TBD | TBD |
+2:30pm - 2:45pm   | Optimal Query Complexity of Secure Stochastic Convex Optimization  | Wei Tang |
+2:45pm - 3:00pm   | To Call or not to Call? Using ML Prediction APIs more Accurately and Economically | Lingjiao Chen |
+3:00pm - 3:15pm   | European Privacy Law and Global Markets for Data | Christian Peukert |
 
 ## Call for papers ##
 
