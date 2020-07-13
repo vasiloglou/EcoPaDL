@@ -6,8 +6,8 @@ While there are several proposals for solving the technical part of data markets
 
 ## Schedule ##
 
-Time (EST)  | Title  | Presenter |
------------ | ------ | --------- |
+Time (EST)  | Title  | Presenter | Slides | Video |
+----------- | ------ | --------- | ------ | ----- |
 9:00am - 10:00am | TBD | TBD |
 10:00am - 10:15am | Designing Differentially Private Estimators in High Dimensions | 	Aditya Dhar | Slides | Video|
 10:15am - 10:30am | Really Useful Synthetic Data -- A Framework to Evaluate the Quality of Differentially Private Synthetic Data | 	Christian Arnold | Slides | Video|
