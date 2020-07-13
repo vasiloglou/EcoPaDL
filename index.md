@@ -9,18 +9,18 @@ While there are several proposals for solving the technical part of data markets
 Time (EST)  | Title  | Presenter | Slides | Video |
 ----------- | ------ | --------- | ------ | ----- |
 9:00am - 10:00am | TBD | TBD |
-10:00am - 10:15am | Designing Differentially Private Estimators in High Dimensions | 	Aditya Dhar | Slides | Video|
-10:15am - 10:30am | Really Useful Synthetic Data -- A Framework to Evaluate the Quality of Differentially Private Synthetic Data | 	Christian Arnold | Slides | Video|
-10:30am - 10:45am |	Generating Privacy-Preserving Synthetic Tabular Data Using Oblivious Variational Autoencoders  |	L Vivek Harsha | Slides | Video |
+10:00am - 10:15am | [Designing Differentially Private Estimators in High Dimensions](https://drive.google.com/file/d/1coRP5qfV906tO5askIhHbn6OA1KP2oAZ/view?usp=sharing) | 	Aditya Dhar | Slides | Video|
+10:15am - 10:30am | [Really Useful Synthetic Data -- A Framework to Evaluate the Quality of Differentially Private Synthetic Data](https://drive.google.com/file/d/1dwUptJjiWfKtEx2NZmEjz38GGR6UIbXH/view?usp=sharing) | 	Christian Arnold | Slides | Video|
+10:30am - 10:45am |	[Generating Privacy-Preserving Synthetic Tabular Data Using Oblivious Variational Autoencoders](https://drive.google.com/file/d/11zmd_YinEsVfcaMzOWQcix98sfoypWYu/view?usp=sharing)  |	L Vivek Harsha | Slides | Video |
 10:45am - 11:00am | BREAK |
 11:00am - 12:00pm |   TBD  | [Nicole Immorlica](http://www.immorlica.com/) | Slides | Video |
-12:00pm - 12:15pm   | European Privacy Law and Global Markets for Data | Christian Peukert | Slides | Video |
-12:15pm - 12:30pm | On Detecting Data Pollution Attacks On Recommender Systems Using Sequential GANs | Behzad Shahrasb | Slides | Video |
-12:30pm - 12:45pm | 	Efficient Privacy-Preserving Stochastic Nonconvex Optimization | 	Lingxiao Wang | Slides | Video|
+12:00pm - 12:15pm   | [European Privacy Law and Global Markets for Data](https://drive.google.com/file/d/1xNg6w_RbTVk5rdkW9obbYMUBa74sio4c/view?usp=sharing) | Christian Peukert | Slides | Video |
+12:15pm - 12:30pm | [On Detecting Data Pollution Attacks On Recommender Systems Using Sequential GANs](https://drive.google.com/file/d/1b9iJHLq4g-aCRqdGocnqdx0x7p0TzPXE/view?usp=sharing) | Behzad Shahrasb | Slides | Video |
+12:30pm - 12:45pm | 	[Efficient Privacy-Preserving Stochastic Nonconvex Optimization](https://drive.google.com/file/d/1FfGuUOnVgCCOUsBh80_jj67FW9A4HrVt/view?usp=sharing) | 	Lingxiao Wang | Slides | Video|
 12:45pm - 1:30pm  | BREAK |
-1:30pm - 1:45pm   | Optimal Query Complexity of Secure Stochastic Convex Optimization  | Wei Tang | [Slides](https://drive.google.com/file/d/11jaDtYRqUkcpQ6QnxWTqVTBKmcGEpRTA/view?usp=sharing) | [Video](https://drive.google.com/file/d/1hWo0UKmMwl5hy_uqNOgUlVDEhKI5iKSP/view?usp=sharing) | Slides | Video |
-1:45pm - 2:00pm   | To Call or not to Call? Using ML Prediction APIs more Accurately and Economically | Lingjiao Chen | Slides | Video |
-2:00pm - 2:15pm | Do Markets Make Sense for Personal Data?  | Aileen Nielsen | Slides | Video |
+1:30pm - 1:45pm   | [Optimal Query Complexity of Secure Stochastic Convex Optimization](https://drive.google.com/file/d/1FfGuUOnVgCCOUsBh80_jj67FW9A4HrVt/view?usp=sharing)  | Wei Tang | [Slides](https://drive.google.com/file/d/11jaDtYRqUkcpQ6QnxWTqVTBKmcGEpRTA/view?usp=sharing) | [Video](https://drive.google.com/file/d/1hWo0UKmMwl5hy_uqNOgUlVDEhKI5iKSP/view?usp=sharing) | Slides | Video |
+1:45pm - 2:00pm   | [To Call or not to Call? Using ML Prediction APIs more Accurately and Economically](https://drive.google.com/file/d/1fmCr50IvAMPOMGLwUMZkDzvywEzcsSlW/view?usp=sharing) | Lingjiao Chen | Slides | Video |
+2:00pm - 2:15pm | [Do Markets Make Sense for Personal Data?](https://drive.google.com/file/d/1p8ZN_YRxtlqVCBnLRZQh3_DG_VKrJvS_/view?usp=sharing)  | Aileen Nielsen | Slides | Video |
 2:15pm - 2:30:pm | BREAK| 
 2:30am - 3:30pm | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/) | Slides | Video |
 
