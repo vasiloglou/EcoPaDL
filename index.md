@@ -18,7 +18,7 @@ Time (EST)  | Title  | Presenter | Slides | Video |
 12:15pm - 12:30pm | [On Detecting Data Pollution Attacks On Recommender Systems Using Sequential GANs](https://drive.google.com/file/d/1b9iJHLq4g-aCRqdGocnqdx0x7p0TzPXE/view?usp=sharing) | Behzad Shahrasb | Slides | Video |
 12:30pm - 12:45pm | 	[Efficient Privacy-Preserving Stochastic Nonconvex Optimization](https://drive.google.com/file/d/1FfGuUOnVgCCOUsBh80_jj67FW9A4HrVt/view?usp=sharing) | 	Lingxiao Wang | Slides | Video|
 12:45pm - 1:30pm  | BREAK |
-1:30pm - 1:45pm   | [Optimal Query Complexity of Secure Stochastic Convex Optimization](https://drive.google.com/file/d/1FfGuUOnVgCCOUsBh80_jj67FW9A4HrVt/view?usp=sharing)  | Wei Tang | [Slides](https://drive.google.com/file/d/11jaDtYRqUkcpQ6QnxWTqVTBKmcGEpRTA/view?usp=sharing) | [Video](https://drive.google.com/file/d/1hWo0UKmMwl5hy_uqNOgUlVDEhKI5iKSP/view?usp=sharing) | Slides | Video |
+1:30pm - 1:45pm   | [Optimal Query Complexity of Secure Stochastic Convex Optimization](https://drive.google.com/file/d/16ZQbfEawSpy2Zr_rCPDw5tDdWyB5K7c9/view?usp=sharing)  | Wei Tang | [Slides](https://drive.google.com/file/d/11jaDtYRqUkcpQ6QnxWTqVTBKmcGEpRTA/view?usp=sharing) | [Video](https://drive.google.com/file/d/1hWo0UKmMwl5hy_uqNOgUlVDEhKI5iKSP/view?usp=sharing) | Slides | Video |
 1:45pm - 2:00pm   | [To Call or not to Call? Using ML Prediction APIs more Accurately and Economically](https://drive.google.com/file/d/1fmCr50IvAMPOMGLwUMZkDzvywEzcsSlW/view?usp=sharing) | Lingjiao Chen | Slides | Video |
 2:00pm - 2:15pm | [Do Markets Make Sense for Personal Data?](https://drive.google.com/file/d/1JzbPrvW9ELfkATS3DiaAzWkCf6fLDFqx/view?usp=sharing)  | Aileen Nielsen | Slides | Video |
 2:15pm - 2:30:pm | BREAK| 
