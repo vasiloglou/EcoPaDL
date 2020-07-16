@@ -22,7 +22,7 @@ Time (EST)  | Title  | Presenter | Slides | Video |
 1:45pm - 2:00pm   | [To Call or not to Call? Using ML Prediction APIs more Accurately and Economically](https://drive.google.com/file/d/1fmCr50IvAMPOMGLwUMZkDzvywEzcsSlW/view?usp=sharing) | Lingjiao Chen | Slides | Video |
 2:00pm - 2:15pm | [Do Markets Make Sense for Personal Data?](https://drive.google.com/file/d/1JzbPrvW9ELfkATS3DiaAzWkCf6fLDFqx/view?usp=sharing)  | Aileen Nielsen | Slides | Video |
 2:15pm - 2:30:pm | BREAK| 
-2:30am - 3:30pm | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/) | Slides | Video |
+2:30pm - 3:30pm | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/) | Slides | Video |
 
 ## Call for papers ##
 
