@@ -19,7 +19,7 @@ Time (EST)  | Title  | Presenter | Slides | Video |
 12:45pm - 1:30pm  | BREAK |
 1:30pm - 1:45pm   | [Optimal Query Complexity of Secure Stochastic Convex Optimization](https://drive.google.com/file/d/16ZQbfEawSpy2Zr_rCPDw5tDdWyB5K7c9/view?usp=sharing)  | Wei Tang | [Slides](https://drive.google.com/file/d/11jaDtYRqUkcpQ6QnxWTqVTBKmcGEpRTA/view?usp=sharing) | [Video](https://drive.google.com/file/d/1hWo0UKmMwl5hy_uqNOgUlVDEhKI5iKSP/view?usp=sharing) | Slides | Video |
 1:45pm - 2:00pm   | [To Call or not to Call? Using ML Prediction APIs more Accurately and Economically](https://drive.google.com/file/d/1fmCr50IvAMPOMGLwUMZkDzvywEzcsSlW/view?usp=sharing) | Lingjiao Chen | Slides | Video |
-2:00pm - 2:15pm | [Do Markets Make Sense for Personal Data?](https://drive.google.com/file/d/1JzbPrvW9ELfkATS3DiaAzWkCf6fLDFqx/view?usp=sharing)  | Aileen Nielsen | Slides | Video |
+2:00pm - 2:15pm | [Do Markets Make Sense for Personal Data?](https://drive.google.com/file/d/1JzbPrvW9ELfkATS3DiaAzWkCf6fLDFqx/view?usp=sharing)  | Aileen Nielsen | [Slides](https://drive.google.com/file/d/1OQQnNBDDVqKhr_ZHRoRYXCgDizSGEqeR/view?usp=sharing) | Video |
 2:15pm - 2:30:pm | BREAK| 
 2:30pm - 3:30pm | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/) | Slides | Video |
 
