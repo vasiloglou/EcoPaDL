@@ -9,7 +9,7 @@ While there are several proposals for solving the technical part of data markets
 Time (EST)  | Title  | Presenter | Slides | Video |
 ----------- | ------ | --------- | ------ | ----- |
 10:00am - 10:15am | [Designing Differentially Private Estimators in High Dimensions](https://drive.google.com/file/d/1cQhjxk96e0erVyo1ofOHDzpeh1OTgpyx/view?usp=sharing) | 	Aditya Dhar | Slides | Video|
-10:15am - 10:30am | [Really Useful Synthetic Data -- A Framework to Evaluate the Quality of Differentially Private Synthetic Data](https://drive.google.com/file/d/1dwUptJjiWfKtEx2NZmEjz38GGR6UIbXH/view?usp=sharing) | 	Christian Arnold | [Slides](https://drive.google.com/file/d/1IN4vmr1qEeGHc1HAlPLtHdG1sKSxH7U3/view?usp=sharing) | Video|
+10:15am - 10:30am | [Really Useful Synthetic Data -- A Framework to Evaluate the Quality of Differentially Private Synthetic Data](https://drive.google.com/file/d/1dwUptJjiWfKtEx2NZmEjz38GGR6UIbXH/view?usp=sharing) | 	Christian Arnold | [Slides](https://drive.google.com/file/d/1IN4vmr1qEeGHc1HAlPLtHdG1sKSxH7U3/view?usp=sharing) | [Video](https://drive.google.com/file/d/1IB7J1IM6LdQDjBcVQq-30R3OZqtchv7c/view?usp=sharing)|
 10:30am - 10:45am |	[Generating Privacy-Preserving Synthetic Tabular Data Using Oblivious Variational Autoencoders](https://drive.google.com/file/d/1R6S59Nr0saOZuhr_mrk-_6DvZeOZ7Xdz/view?usp=sharing)  |	L Vivek Harsha | Slides | Video |
 10:45am - 11:00am | BREAK |
 11:00am - 12:00pm |   Buying data over time  | [Nicole Immorlica](http://www.immorlica.com/) | Slides | Video |
@@ -21,7 +21,7 @@ Time (EST)  | Title  | Presenter | Slides | Video |
 1:45pm - 2:00pm   | [To Call or not to Call? Using ML Prediction APIs more Accurately and Economically](https://drive.google.com/file/d/1fmCr50IvAMPOMGLwUMZkDzvywEzcsSlW/view?usp=sharing) | Lingjiao Chen | Slides | Video |
 2:00pm - 2:15pm | [Do Markets Make Sense for Personal Data?](https://drive.google.com/file/d/1JzbPrvW9ELfkATS3DiaAzWkCf6fLDFqx/view?usp=sharing)  | Aileen Nielsen | [Slides](https://drive.google.com/file/d/1OQQnNBDDVqKhr_ZHRoRYXCgDizSGEqeR/view?usp=sharing) | Video |
 2:15pm - 2:30:pm | BREAK| 
-2:30pm - 3:30pm | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/) | Slides | Video |
+2:30pm - 3:30pm | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/) | [Slides](https://drive.google.com/file/d/1n2EivlulQvKPVbxAuit51M0GgZvpeERs/view?usp=sharing) | [Video](https://drive.google.com/file/d/1ytiGdbcTRk91JCN1WKHGWdyA8dNiltdC/view?usp=sharing) |
 
 ## Call for papers ##
 
