@@ -13,7 +13,7 @@ Time (EST)  | Title  | Presenter | Slides | Video |
 10:30am - 10:45am |	[Generating Privacy-Preserving Synthetic Tabular Data Using Oblivious Variational Autoencoders](https://drive.google.com/file/d/1R6S59Nr0saOZuhr_mrk-_6DvZeOZ7Xdz/view?usp=sharing)  |	L Vivek Harsha | Slides | Video |
 10:45am - 11:00am | BREAK |
 11:00am - 12:00pm |   Buying data over time  | [Nicole Immorlica](http://www.immorlica.com/) | Slides | Video |
-12:00pm - 12:15pm   | [European Privacy Law and Global Markets for Data](https://drive.google.com/file/d/1xNg6w_RbTVk5rdkW9obbYMUBa74sio4c/view?usp=sharing) | Christian Peukert | Slides | Video |
+12:00pm - 12:15pm   | [European Privacy Law and Global Markets for Data](https://drive.google.com/file/d/1xNg6w_RbTVk5rdkW9obbYMUBa74sio4c/view?usp=sharing) | Christian Peukert | [Slides](https://drive.google.com/file/d/1VNLhw4hudcAzdlY768qFOsEVp64aj3kr/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=pWPwIKJnOrk) |
 12:15pm - 12:30pm | [On Detecting Data Pollution Attacks On Recommender Systems Using Sequential GANs](https://drive.google.com/file/d/1b9iJHLq4g-aCRqdGocnqdx0x7p0TzPXE/view?usp=sharing) | Behzad Shahrasb | Slides | Video |
 12:30pm - 12:45pm | 	[Efficient Privacy-Preserving Stochastic Nonconvex Optimization](https://drive.google.com/file/d/1FfGuUOnVgCCOUsBh80_jj67FW9A4HrVt/view?usp=sharing) | 	Lingxiao Wang | Slides | Video|
 12:45pm - 1:30pm  | BREAK |
