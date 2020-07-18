@@ -19,7 +19,7 @@ Time (EST)  | Title  | Presenter | Slides | Video |
 12:45pm - 1:30pm  | BREAK |
 1:30pm - 1:45pm   | [European Privacy Law and Global Markets for Data](https://drive.google.com/file/d/1xNg6w_RbTVk5rdkW9obbYMUBa74sio4c/view?usp=sharing) | Christian Peukert | [Slides](https://drive.google.com/file/d/1VNLhw4hudcAzdlY768qFOsEVp64aj3kr/view?usp=sharing) | [Video](https://drive.google.com/file/d/1ntKiRoA5MVhKyj5ahqLJkH-0l10i2qAo/view?usp=sharing) |
 1:45pm - 2:00pm   | [To Call or not to Call? Using ML Prediction APIs more Accurately and Economically](https://drive.google.com/file/d/1fmCr50IvAMPOMGLwUMZkDzvywEzcsSlW/view?usp=sharing) | Lingjiao Chen | Slides | [Video](https://drive.google.com/file/d/1oOJ9Tu7HEfh5XzdzLcNe7c6Z_Asm_8gG/view?usp=sharing) |
-2:00pm - 2:15pm | [Do Markets Make Sense for Personal Data?](https://drive.google.com/file/d/1JzbPrvW9ELfkATS3DiaAzWkCf6fLDFqx/view?usp=sharing)  | Aileen Nielsen | [Slides](https://drive.google.com/file/d/1OQQnNBDDVqKhr_ZHRoRYXCgDizSGEqeR/view?usp=sharing) | Video |
+2:00pm - 2:15pm | [Do Markets Make Sense for Personal Data?](https://drive.google.com/file/d/1JzbPrvW9ELfkATS3DiaAzWkCf6fLDFqx/view?usp=sharing)  | Aileen Nielsen | [Slides](https://drive.google.com/file/d/1OQQnNBDDVqKhr_ZHRoRYXCgDizSGEqeR/view?usp=sharing) | [Video](https://drive.google.com/file/d/1dcgr7JwWOjkv3nmDGh4bSUUauW4mmO0M/view?usp=sharing) |
 2:15pm - 2:30:pm | BREAK| 
 2:30pm - 3:30pm | Intersectional Social Data | [Glen Weyl](http://glenweyl.com/) | [Slides](https://drive.google.com/file/d/1n2EivlulQvKPVbxAuit51M0GgZvpeERs/view?usp=sharing) | [Video](https://drive.google.com/file/d/1ytiGdbcTRk91JCN1WKHGWdyA8dNiltdC/view?usp=sharing) |
 
