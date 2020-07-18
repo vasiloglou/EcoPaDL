@@ -8,7 +8,7 @@ While there are several proposals for solving the technical part of data markets
 
 Time (EST)  | Title  | Presenter | Slides | Video |
 ----------- | ------ | --------- | ------ | ----- |
-10:00am - 10:15am | [Designing Differentially Private Estimators in High Dimensions](https://drive.google.com/file/d/1cQhjxk96e0erVyo1ofOHDzpeh1OTgpyx/view?usp=sharing) | 	Aditya Dhar | Slides | Video|
+10:00am - 10:15am | [Designing Differentially Private Estimators in High Dimensions](https://drive.google.com/file/d/1cQhjxk96e0erVyo1ofOHDzpeh1OTgpyx/view?usp=sharing) | 	Aditya Dhar | [Slides](https://drive.google.com/file/d/1F5CBS5lnjLIkNfju2LZ-s_kl0Lnw39P8/view?usp=sharing) | [Video](https://drive.google.com/file/d/17lgvSk9D6awYRzSbhuhaKo8-7hiI10WG/view?usp=sharing)|
 10:15am - 10:30am | [Really Useful Synthetic Data -- A Framework to Evaluate the Quality of Differentially Private Synthetic Data](https://drive.google.com/file/d/1dwUptJjiWfKtEx2NZmEjz38GGR6UIbXH/view?usp=sharing) | 	Christian Arnold | [Slides](https://drive.google.com/file/d/1IN4vmr1qEeGHc1HAlPLtHdG1sKSxH7U3/view?usp=sharing) | [Video](https://drive.google.com/file/d/1IB7J1IM6LdQDjBcVQq-30R3OZqtchv7c/view?usp=sharing)|
 10:30am - 10:45am |	[Generating Privacy-Preserving Synthetic Tabular Data Using Oblivious Variational Autoencoders](https://drive.google.com/file/d/1R6S59Nr0saOZuhr_mrk-_6DvZeOZ7Xdz/view?usp=sharing)  |	L Vivek Harsha | [Slides](https://drive.google.com/file/d/1NkBlmopsOBrdr9hEY74rsPXmvm1YLM-a/view?usp=sharing) | [Video](https://drive.google.com/file/d/1-8HPBkEsQNLt2maImxhqgpM0d2lH1BMM/view?usp=sharing) |
 10:45am - 11:00am | BREAK |
